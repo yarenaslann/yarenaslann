@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Yaren Aslan.
+I'm a freshman at Bilkent University.
+I'm studying computer science.
 
 <!--
 **yarenaslann/yarenaslann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
